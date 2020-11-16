@@ -1,0 +1,9 @@
+C:\Users\Kliment.Jancheski\source\repos\Sedc.UnitTesting\Sedc.UnitTesting\bin\Debug\netcoreapp3.1\Sedc.UnitTesting.deps.json
+C:\Users\Kliment.Jancheski\source\repos\Sedc.UnitTesting\Sedc.UnitTesting\bin\Debug\netcoreapp3.1\Sedc.UnitTesting.dll
+C:\Users\Kliment.Jancheski\source\repos\Sedc.UnitTesting\Sedc.UnitTesting\bin\Debug\netcoreapp3.1\Sedc.UnitTesting.pdb
+C:\Users\Kliment.Jancheski\source\repos\Sedc.UnitTesting\Sedc.UnitTesting\obj\Debug\netcoreapp3.1\Sedc.UnitTesting.csprojAssemblyReference.cache
+C:\Users\Kliment.Jancheski\source\repos\Sedc.UnitTesting\Sedc.UnitTesting\obj\Debug\netcoreapp3.1\Sedc.UnitTesting.AssemblyInfoInputs.cache
+C:\Users\Kliment.Jancheski\source\repos\Sedc.UnitTesting\Sedc.UnitTesting\obj\Debug\netcoreapp3.1\Sedc.UnitTesting.AssemblyInfo.cs
+C:\Users\Kliment.Jancheski\source\repos\Sedc.UnitTesting\Sedc.UnitTesting\obj\Debug\netcoreapp3.1\Sedc.UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Kliment.Jancheski\source\repos\Sedc.UnitTesting\Sedc.UnitTesting\obj\Debug\netcoreapp3.1\Sedc.UnitTesting.dll
+C:\Users\Kliment.Jancheski\source\repos\Sedc.UnitTesting\Sedc.UnitTesting\obj\Debug\netcoreapp3.1\Sedc.UnitTesting.pdb
