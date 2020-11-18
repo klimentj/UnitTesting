@@ -9,7 +9,7 @@ namespace Sedc.UnitTesting.Tests
     public class IntegerMethodsTests
     {
         [Test]
-        public void IntegerMethods_GivenListWithValue_ShouldReturnCorrectResult()
+        public void FindNthLargestNumber_GivenListWithValue_ShouldReturnCorrectResult()
         {
             //Arrange
             var im = new IntegerMethods();
@@ -25,7 +25,7 @@ namespace Sedc.UnitTesting.Tests
         }
 
         [Test]
-        public void IntegerMethods_GivenEmptyList_ShouldReturnException()
+        public void FindNthLargestNumber_GivenEmptyList_ShouldReturnException()
         {
             //arrange
             var im = new IntegerMethods();

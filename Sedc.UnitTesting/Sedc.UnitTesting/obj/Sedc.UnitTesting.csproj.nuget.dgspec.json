@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kliment.Jancheski\\source\\repos\\UnitTesting\\Sedc.UnitTesting\\Sedc.UnitTesting\\Sedc.UnitTesting.csproj": {}
+    "C:\\Users\\Kliment.Jancheski\\source\\repos\\New folder\\UnitTesting\\Sedc.UnitTesting\\Sedc.UnitTesting\\Sedc.UnitTesting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kliment.Jancheski\\source\\repos\\UnitTesting\\Sedc.UnitTesting\\Sedc.UnitTesting\\Sedc.UnitTesting.csproj": {
+    "C:\\Users\\Kliment.Jancheski\\source\\repos\\New folder\\UnitTesting\\Sedc.UnitTesting\\Sedc.UnitTesting\\Sedc.UnitTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kliment.Jancheski\\source\\repos\\UnitTesting\\Sedc.UnitTesting\\Sedc.UnitTesting\\Sedc.UnitTesting.csproj",
+        "projectUniqueName": "C:\\Users\\Kliment.Jancheski\\source\\repos\\New folder\\UnitTesting\\Sedc.UnitTesting\\Sedc.UnitTesting\\Sedc.UnitTesting.csproj",
         "projectName": "Sedc.UnitTesting",
-        "projectPath": "C:\\Users\\Kliment.Jancheski\\source\\repos\\UnitTesting\\Sedc.UnitTesting\\Sedc.UnitTesting\\Sedc.UnitTesting.csproj",
+        "projectPath": "C:\\Users\\Kliment.Jancheski\\source\\repos\\New folder\\UnitTesting\\Sedc.UnitTesting\\Sedc.UnitTesting\\Sedc.UnitTesting.csproj",
         "packagesPath": "C:\\Users\\Kliment.Jancheski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kliment.Jancheski\\source\\repos\\UnitTesting\\Sedc.UnitTesting\\Sedc.UnitTesting\\obj\\",
+        "outputPath": "C:\\Users\\Kliment.Jancheski\\source\\repos\\New folder\\UnitTesting\\Sedc.UnitTesting\\Sedc.UnitTesting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

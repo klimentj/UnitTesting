@@ -1,6 +1,8 @@
 ﻿using NUnit.Framework;
 using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Reflection;
 using System.Text;
 
 namespace Sedc.UnitTesting.Tests
@@ -29,7 +31,7 @@ namespace Sedc.UnitTesting.Tests
             //assert
             Assert.AreEqual(expectedResult, result);
         }
-
+        
         [Test]
         [Author("Kliment")]
         [Ignore("Reverse method should be refactored")]
@@ -60,5 +62,7 @@ namespace Sedc.UnitTesting.Tests
             //assert
             Assert.AreEqual(expectedResult, result);
         }
+
+        
     }
 }

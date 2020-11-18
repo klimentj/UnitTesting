@@ -18,13 +18,14 @@ namespace Sedc.UnitTesting.Tests
             listNumber = new List<int>();
         }
 
-        [OneTimeTearDown]
+        [TearDown]
         public void TearDown()
         {
             listNumber.Clear();
         }
 
         [Test]
+        [Order(1)]
         public void IntegerMethods_GivenListWithValue_ShouldReturnCorrectResult()
         {
             //Arrange            
@@ -40,6 +41,7 @@ namespace Sedc.UnitTesting.Tests
         }
 
         [Test]
+        [Order(2)]
         public void IntegerMethods_GivenEmptyList_ShouldReturnException()
         {
             //arrange                        

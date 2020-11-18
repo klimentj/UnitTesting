@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h2hUFgcE3XnOMLanAvUVT6jwOwRNS3QkFJt8NI66qwodhdX1/dWmEXFceIZz22lHnUn8DS4BKl/yyRrEKJhggQ==",
+  "dgSpecHash": "M7Y8a/F9ac5JHZzPfmAgU7WsK/uah4exlCq+J23n6iPjTR32oPYwnQ57onuo0+XyaPfweiS1dQs9+KvPufpzhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kliment.Jancheski\\source\\repos\\UnitTesting\\Sedc.UnitTesting\\Sedc.UnitTesting.Tests\\Sedc.UnitTesting.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Kliment.Jancheski\\source\\repos\\New folder\\UnitTesting\\Sedc.UnitTesting\\Sedc.UnitTesting.Tests\\Sedc.UnitTesting.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kliment.Jancheski\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
